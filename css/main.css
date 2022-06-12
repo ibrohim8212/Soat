@@ -1,0 +1,170 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header-ul{
+    width: 422px;
+}
+
+.ul{
+display: flex;
+list-style: none;
+justify-content: space-evenly;
+}
+
+.header-href{
+    text-decoration: none;
+    font-weight: 400;
+font-size: 14px;
+color: #555248;
+}
+
+
+.header-ikon{
+    width: 99px;
+    height: 21px;
+}
+
+
+/* section-two */
+
+
+.header-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.top-div{
+    display: flex;
+    align-items: center;
+}
+
+
+.line{
+    width: 56px;
+    height: 2px;
+    background:#8B8371;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
+.top-p{
+    color: #444340;
+}
+
+
+.buttom{
+    display: flex;
+    background: #444240;
+    width: 205px;
+    height: 64px;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttom-href{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+/* section three */
+
+.left-text{
+    text-align: center;
+}
+
+
+.left-ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+
+.more{
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* section-four */
+
+.right-div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+.buttom-brown{
+    display: flex;
+    width: 205px;
+    height: 64px;
+    background-color: #D4B098;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.buttom-href{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.right-imgs{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.imgs{
+    display: flex;
+}
+
+
+
+.two-imgs{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* section-five */
+
+.header-bottom{
+    background-color: #444240;
+}
+
+.bottom-div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom-hrefs{
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom-href{
+    text-decoration: none;
+    color: #fff;
+}
+
+.bottom-ul{
+    display: flex;
+}
+
+.ul-bottom{
+    list-style: none;
+}
